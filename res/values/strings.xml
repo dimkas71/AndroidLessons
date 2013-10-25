@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Mini Web Browser</string>
-    <string name="txt_link">http://</string>
+    <string name="app_name">Mini web browser</string>
+    <string name="txt_link">http://www.f1news.ru</string>
 </resources>
